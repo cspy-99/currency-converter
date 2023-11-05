@@ -1,5 +1,6 @@
 # Currency Converter README
 This is a simple currency converter website allowing users to convert USD, CZK, GBP, and EUR to PLN. The website is built using the following technologies and techniques:
+## [Link to the website](https://cspy-99.github.io/currency-converter/)
 
 - **BEM Convention:** Utilizes a clean and structured CSS class naming approach for maintainability.
 
