@@ -1,6 +1,4 @@
 # Currency Converter README
-![sitegif](images/currencyConverter-demo.gif)
-
 This is a simple currency converter website allowing users to convert USD, CZK, GBP, and EUR to PLN. The website is built using the following technologies and techniques:
 
 - **BEM Convention:** Utilizes a clean and structured CSS class naming approach for maintainability.
@@ -16,3 +14,6 @@ This is a simple currency converter website allowing users to convert USD, CZK, 
 - **CSS Styling:** The user interface is styled using CSS to ensure an attractive and consistent design.
 
 This currency converter simplifies the process of converting currencies and offers a user-friendly experience. Feel free to adapt this template for your own currency conversion project.
+
+![sitegif](images/currencyConverter-demo.gif)
+
