@@ -11,13 +11,15 @@
 
 .form__body {
     font-family: 'Montserrat', sans-serif;
-    line-height: 2;
+    min-height: 100vh;
     background-image: url("../images/Money.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     overflow: auto;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .form__labelText {
